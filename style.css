@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+}
+h1{
+    color: blue;
+}
+#Olympic_Canvas{
+    background-color: wheat;
+    border: 5px solid ridge;
+    border-color: gray;
+}
